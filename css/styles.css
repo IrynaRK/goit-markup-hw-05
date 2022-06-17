@@ -240,7 +240,7 @@ body {
   letter-spacing: 0.03em;
   background: #f5f4fa;
   border-style: none;
-  transition-property: transform;
+  transition-property: background;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
